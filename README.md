@@ -1,1 +1,1 @@
-Keep it logically awesome.
+Non-blocking is better than blocking.
