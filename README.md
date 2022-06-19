@@ -1,1 +1,1 @@
-Non-blocking is better than blocking.
+Encourage flow.
