@@ -1,1 +1,1 @@
-Encourage flow.
+Mind your words, they are important.
