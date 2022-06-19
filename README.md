@@ -1,1 +1,1 @@
-Practicality beats purity.
+Favor focus over features.
