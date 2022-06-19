@@ -1,1 +1,1 @@
-Favor focus over features.
+Speak like a human.
