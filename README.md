@@ -1,1 +1,1 @@
-Keep it logically awesome.
+Practicality beats purity.
