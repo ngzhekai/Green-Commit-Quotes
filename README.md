@@ -1,1 +1,1 @@
-Design for failure.
+Keep it logically awesome.
