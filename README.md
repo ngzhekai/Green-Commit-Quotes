@@ -1,1 +1,1 @@
-Half measures are as bad as nothing at all.
+Approachable is better than simple.
