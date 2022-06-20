@@ -1,1 +1,1 @@
-Practicality beats purity.
+Half measures are as bad as nothing at all.
