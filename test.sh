@@ -22,5 +22,5 @@ curl \
   -H "Accept: application/vnd.github.v3+json" \
   -H "Authorization: token $token" \
   https://api.github.com/repos/$owner/$repo/contents/$path \
-  -d "{\"message\":\"Nothing\",\"committer\":{\"name\":\"Hatsune Miku\",\"email\":\"$email\"},\"content\":\"$CVT\",\"sha\":\"$SHA\"}"
+  -d "{\"message\":\"$TEXT\",\"committer\":{\"name\":\"Hatsune Miku\",\"email\":\"$email\"},\"content\":\"$CVT\",\"sha\":\"$SHA\"}"
 
