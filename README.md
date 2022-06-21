@@ -1,1 +1,1 @@
-Approachable is better than simple.
+Anything added dilutes everything else.
