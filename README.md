@@ -1,1 +1,1 @@
-Anything added dilutes everything else.
+Half measures are as bad as nothing at all.
