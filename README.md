@@ -1,1 +1,1 @@
-Anything added dilutes everything else.
+Avoid administrative distraction.
