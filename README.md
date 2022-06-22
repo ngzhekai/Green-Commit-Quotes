@@ -1,1 +1,1 @@
-Avoid administrative distraction.
+Approachable is better than simple.
