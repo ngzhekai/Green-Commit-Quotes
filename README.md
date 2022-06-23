@@ -1,1 +1,1 @@
-Half measures are as bad as nothing at all.
+Mind your words, they are important.
