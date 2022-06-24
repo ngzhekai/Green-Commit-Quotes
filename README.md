@@ -1,1 +1,1 @@
-Speak like a human.
+Encourage flow.
