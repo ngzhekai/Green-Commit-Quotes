@@ -1,1 +1,1 @@
-Mind your words, they are important.
+Speak like a human.
