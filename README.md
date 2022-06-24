@@ -1,1 +1,1 @@
-Encourage flow.
+Anything added dilutes everything else.
