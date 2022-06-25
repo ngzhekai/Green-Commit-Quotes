@@ -1,1 +1,1 @@
-Anything added dilutes everything else.
+It's not fully shipped until it's fast.
