@@ -1,1 +1,1 @@
-It's not fully shipped until it's fast.
+Speak like a human.
