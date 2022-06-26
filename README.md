@@ -1,1 +1,1 @@
-The person who says something is impossible should not interrupt the person who is doing it. - Chinese Proverb
+If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
