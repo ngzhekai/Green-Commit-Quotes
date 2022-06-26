@@ -1,1 +1,1 @@
-Anything added dilutes everything else.
+Practicality beats purity.
