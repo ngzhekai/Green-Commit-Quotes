@@ -1,1 +1,1 @@
-The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. - Jim Rohn
+When you consider things like the stars, our affairs don't seem to matter very much, do they? - Virginia Woolf
