@@ -1,1 +1,1 @@
-Speak like a human.
+Anything added dilutes everything else.
