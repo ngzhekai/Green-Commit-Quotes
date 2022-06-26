@@ -1,1 +1,1 @@
-Half measures are as bad as nothing at all.
+When you consider things like the stars, our affairs don't seem to matter very much, do they? - Virginia Woolf
