@@ -1,1 +1,1 @@
-If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
+The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. - Jim Rohn
