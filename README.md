@@ -1,1 +1,1 @@
-Practicality beats purity.
+Avoid administrative distraction.
