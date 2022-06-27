@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</q> - <font size=5><em>Robert Greene</em></font>
+### Daily Quotes <br> <br> <q>Throughout this life, you can never be certain of living long enough to take another breath.</q> - <sup><em>Zen Proverb</em></sup>
