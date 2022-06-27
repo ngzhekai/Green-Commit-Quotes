@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</q> ~<em>Thich Nhat Hanh</em>
+### Commit Quotes <br> <br> <q>Catch, then, O catch the transient hour; Improve each moment as it flies! </q> -<em>St. Jerome</em>
