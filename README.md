@@ -1,1 +1,1 @@
-## Daily Quotes <hr> <br> <q>Even the smallest person can change the course of the future.</q> - <em>J.R.R. Tolkien</em>
+## Daily Quotes <hr> <q>Every drop in the ocean counts. </q> - <em>Yoko Ono</em>
