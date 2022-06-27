@@ -1,1 +1,1 @@
-When you consider things like the stars, our affairs don't seem to matter very much, do they? - Virginia Woolf
+### Commit Quotes <br> <br> <q>It is better to offer no excuse than a bad one. </q> -<em>George Washington</em>
