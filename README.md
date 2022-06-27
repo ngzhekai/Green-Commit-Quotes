@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>It is better to offer no excuse than a bad one. </q> -<em>George Washington</em>
+### Commit Quotes <br> <br> <q>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</q> ~<em>Thich Nhat Hanh</em>
