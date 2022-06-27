@@ -20,7 +20,7 @@ source=$(curl https://zenquotes.io/api/random)
 quote=$(echo $source | jq -r .[].q)
 author=$(echo $source | jq -r .[].a)
 # Concatenate the string
-output="${quote} - ${author}"
+output="### Commit Quotes <br> <br> <q>${quote}</q> -<em>${author}</em>"
 
 # TEXT=$(curl https://api.github.com/zen)
 # Encode to base64 format
