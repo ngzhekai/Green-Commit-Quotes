@@ -1,1 +1,1 @@
-## Daily Quotes <hr> <q>Every drop in the ocean counts. </q> - <em>Yoko Ono</em>
+## Daily Quotes <hr> ### <q>It is impossible for a man to learn what he thinks he already knows.</q> - <em>Epictetus</em>
