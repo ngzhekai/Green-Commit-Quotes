@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Catch, then, O catch the transient hour; Improve each moment as it flies! </q> -<em>St. Jerome</em>
+### Commit Quotes <br> <br> <q>You cannot always control what goes on outside. But you can always control what goes on inside. </q> -<em>Wayne Dyer</em>
