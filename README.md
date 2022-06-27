@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>You may delay, but time will not.</q> - <sub><em>Benjamin Franklin</em></sub>
+### Daily Quotes <br> <br> <q>A dream doesn't become reality through magic it takes sweat, determination and hard work.</q> - <font size=3><em>Colin Powell</em></font>
