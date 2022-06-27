@@ -1,1 +1,1 @@
-## Daily Quotes <br> ### <q>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</q> - <em>Charles Dickens</em>
+## Daily Quotes <hr> <br> <q>Even the smallest person can change the course of the future.</q> - <em>J.R.R. Tolkien</em>
