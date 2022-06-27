@@ -1,1 +1,1 @@
-## Daily Quotes <br> <br> <q>Your vision will become clear only when you can look into your own heart.</q> - <em>Lolly Daskal</em>
+<font size=1>Daily Quotes </font> <br> <br> <font size=3><q>We know nothing of tomorrow, our business is to be good and happy today.</q> - <em>Sydney Smith</em></font>
