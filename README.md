@@ -1,1 +1,1 @@
-## Daily Quotes <hr> <br> ### <q>Every experience is a lesson. Every loss is a gain.</q> - <em>Sathya Sai Baba</em>
+### Daily Quotes <br> ### <q>Always do what is right. It will gratify half of mankind and astound the other.</q> - <em>Mark Twain</em>
