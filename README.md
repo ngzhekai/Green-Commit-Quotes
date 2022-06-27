@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>Throughout this life, you can never be certain of living long enough to take another breath.</q> - <sup><em>Zen Proverb</em></sup>
+### Daily Quotes <br> <br> <q>It is in the darkness that one finds the light.</q> - <sup><sub><em>Meister Eckhart</em></sub></sup>
