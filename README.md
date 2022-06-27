@@ -1,1 +1,1 @@
-## Let us rather run the risk of wearing out than rusting out. - Theodore Roosevelt
+### <q>Death smiles at us all. All we can do is smile back.</q> - <em>Marcus Aurelius</em>
