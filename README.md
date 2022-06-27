@@ -1,1 +1,1 @@
-## Daily Quotes <hr> ### <q>It is impossible for a man to learn what he thinks he already knows.</q> - <em>Epictetus</em>
+## Daily Quotes <hr> <br> ### <q>Every experience is a lesson. Every loss is a gain.</q> - <em>Sathya Sai Baba</em>
