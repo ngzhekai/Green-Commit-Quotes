@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>There is no limit to the amount of good you can do if you don't care who gets the credit.</q> - <em>Ronald Reagan</em>
+### Daily Quotes <br> <br> <q>You may delay, but time will not.</q> - <sub><em>Benjamin Franklin</em></sub>
