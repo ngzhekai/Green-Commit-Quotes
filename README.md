@@ -1,1 +1,1 @@
-### Daily Quotes <br> ### <q>Always do what is right. It will gratify half of mankind and astound the other.</q> - <em>Mark Twain</em>
+### Daily Quotes <br> <br> <q>There is no limit to the amount of good you can do if you don't care who gets the credit.</q> - <em>Ronald Reagan</em>
