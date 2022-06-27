@@ -1,1 +1,1 @@
-### <q>Death smiles at us all. All we can do is smile back.</q> - <em>Marcus Aurelius</em>
+## Daily Quotes <br> ### <q>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</q> - <em>Charles Dickens</em>
