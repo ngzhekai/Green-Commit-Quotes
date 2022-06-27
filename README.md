@@ -1,1 +1,1 @@
-<font size=1>Daily Quotes </font> <br> <br> <font size=3><q>We know nothing of tomorrow, our business is to be good and happy today.</q> - <em>Sydney Smith</em></font>
+### Daily Quotes <br> <br> <q>Study logic and math, because once you've mastered them, you won't fear any book.</q> - <em>Naval Ravikant</em>
