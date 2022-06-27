@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>Men are equal; it is not birth but virtue that makes the difference.</q> -<em>Voltaire</em>
+### Commit Quotes <br> <br> <q>It is better to offer no excuse than a bad one. </q> -<em>George Washington</em>
