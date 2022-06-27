@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>A dream doesn't become reality through magic it takes sweat, determination and hard work.</q> - <font size=3><em>Colin Powell</em></font>
+### Daily Quotes <br> <br> <q>What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.</q> - <font size=5><em>Robert Greene</em></font>
