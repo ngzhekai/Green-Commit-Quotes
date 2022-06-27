@@ -1,1 +1,1 @@
-### Daily Quotes <br> <br> <q>Ability is a poor man's wealth.</q> - <sub><sup><em>John Wooden</em></sup></sub>
+## Daily Quotes <br> <br> <q>Your vision will become clear only when you can look into your own heart.</q> - <em>Lolly Daskal</em>
