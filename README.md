@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>You cannot always control what goes on outside. But you can always control what goes on inside. </q> -<em>Wayne Dyer</em>
+### Commit Quotes <br> <br> <q>You'll never find rainbows if you're looking down. </q> -<em>Charlie Chaplin</em>
