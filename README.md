@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>You'll never find rainbows if you're looking down. </q> -<em>Charlie Chaplin</em>
+### Commit Quotes <br> <br> <q>If no one ever broke the rules, then we'd never advance.</q> -<em>Simon Sinek</em>
