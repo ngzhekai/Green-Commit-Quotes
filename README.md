@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Enjoy every minute of life. Never second-guess life.</q> -<em>Michael Jordan</em>
+### Commit Quotes <br> <br> <q>Don't ever save anything for a special occasion. Being alive is the special occasion.</q> -<em>Mary Engelbreit</em>
