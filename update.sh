@@ -15,5 +15,5 @@ echo $output > README.md
 
 git config --local user.email "ngzhekai@gmail.com"
 git config --local user.name "Hatsune Miku"
-git commit -m "$quote" -a
+git commit -am "$quote"
 
