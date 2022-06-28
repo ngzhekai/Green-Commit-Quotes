@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Those who seek the easy way do not seek the true way.</q> -<em>Dogen</em>
+### Commit Quotes <br> <br> <q>Alone we can do so little; together we can do so much.</q> -<em>Helen Keller</em>
