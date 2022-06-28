@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Those who seek the easy way do not seek the true way.</q> -<em>Dogen</em>
+### Commit Quotes <br> <br> <q>Like it or not, this moment is all we really have to work with.</q> -<em>Jon Kabat-Zinn</em>
