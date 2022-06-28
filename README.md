@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Through discipline comes freedom.</q> -<em>Aristotle</em>
+### Commit Quotes <br> <br> <q>Eighty percent of success is showing up. </q> -<em>Woody Allen</em>
