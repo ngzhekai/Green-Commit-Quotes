@@ -9,7 +9,7 @@ on:
     branches: [ "main" ]
     
   schedule:
-  - cron: '*/10 * * * *'
+  - cron: '*/5 * * * *'
   
 jobs:
   auto-commit:
@@ -24,7 +24,9 @@ jobs:
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
       - name: Create local changes
-        run: ./update.sh
+        run: |
+          chmod +x ./update.sh
+          ./update.sh
       
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
