@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If no one ever broke the rules, then we'd never advance.</q> -<em>Simon Sinek</em>
+### Commit Quotes <br> <br> <q>Enjoy every minute of life. Never second-guess life.</q> -<em>Michael Jordan</em>
