@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Don't ever save anything for a special occasion. Being alive is the special occasion.</q> -<em>Mary Engelbreit</em>
+### Commit Quotes <br> <br> <q>Those who seek the easy way do not seek the true way.</q> -<em>Dogen</em>
