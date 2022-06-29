@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Where violence reigns, reason is weak.</q> -<em>Nicolas Chamfort</em>
+### Commit Quotes <br> <br> <q>What is a friend? A single soul dwelling in two bodies.</q> -<em>Aristotle</em>
