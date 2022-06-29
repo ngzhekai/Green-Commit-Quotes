@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Be kind whenever possible. It is always possible.</q> -<em>Dalai Lama</em>
+### Commit Quotes <br> <br> <q>Where violence reigns, reason is weak.</q> -<em>Nicolas Chamfort</em>
