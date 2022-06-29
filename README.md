@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you want peace, accept. If you want suffering, expect.</q> -<em>Maxime Lagace</em>
+### Commit Quotes <br> <br> <q>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</q> -<em>Chinese Proverb</em>
