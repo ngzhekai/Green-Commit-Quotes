@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Eighty percent of success is showing up. </q> -<em>Woody Allen</em>
+### Commit Quotes <br> <br> <q>If you want peace, accept. If you want suffering, expect.</q> -<em>Maxime Lagace</em>
