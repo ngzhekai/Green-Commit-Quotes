@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</q> -<em>Betty White</em>
+### Commit Quotes <br> <br> <q>When you realize you've made a mistake, take immediate steps to correct it.</q> -<em>Dalai Lama</em>
