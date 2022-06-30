@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Our stories may be singular, but our destination is shared.</q> -<em>Barack Obama</em>
+### Commit Quotes <br> <br> <q>Yesterday is but today's memory, tomorrow is today's dream.</q> -<em>Kahlil Gibran</em>
