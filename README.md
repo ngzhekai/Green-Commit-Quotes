@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</q> -<em>Barack Obama</em>
+### Commit Quotes <br> <br> <q>Where violence reigns, reason is weak.</q> -<em>Nicolas Chamfort</em>
