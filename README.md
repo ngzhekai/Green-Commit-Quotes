@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. </q> -<em>Nikola Tesla</em>
+### Commit Quotes <br> <br> <q>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</q> -<em>Amelia Earhart</em>
