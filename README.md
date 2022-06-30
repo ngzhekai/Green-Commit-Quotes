@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Where violence reigns, reason is weak.</q> -<em>Nicolas Chamfort</em>
+### Commit Quotes <br> <br> <q>You may delay, but time will not.</q> -<em>Benjamin Franklin</em>
