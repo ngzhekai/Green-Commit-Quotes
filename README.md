@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you're afraid to die, you're afraid to live. You can't have one without the other.</q> -<em>Rita Mae Brown</em>
+### Commit Quotes <br> <br> <q>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</q> -<em>Simon Sinek</em>
