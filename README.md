@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.</q> -<em>Gary Keller</em>
+### Commit Quotes <br> <br> <q>Love is not about possession. Love is about appreciation.</q> -<em>Osho</em>
