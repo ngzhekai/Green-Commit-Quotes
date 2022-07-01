@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Pursue what catches your heart, not what catches your eyes.</q> -<em>Roy T. Bennett</em>
+### Commit Quotes <br> <br> <q>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</q> -<em>Henry Ward Beecher</em>
