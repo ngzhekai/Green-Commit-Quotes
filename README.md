@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.</q> -<em>Simon Sinek</em>
+### Commit Quotes <br> <br> <q>Pursue what catches your heart, not what catches your eyes.</q> -<em>Roy T. Bennett</em>
