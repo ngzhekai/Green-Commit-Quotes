@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Showing off is the fool's idea of glory. </q> -<em>Bruce Lee</em>
+### Commit Quotes <br> <br> <q>The fastest way to change is to laugh at your own folly.</q> -<em>Spencer Johnson</em>
