@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Love is not about possession. Love is about appreciation.</q> -<em>Osho</em>
+### Commit Quotes <br> <br> <q>If you can't, you must. If you must, you can.</q> -<em>Tony Robbins</em>
