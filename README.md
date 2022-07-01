@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>It's OK to have your eggs in one basket as long as you control what happens to that basket.</q> -<em>Elon Musk</em>
+### Commit Quotes <br> <br> <q>My instinct is always to seek out challenges as opposed to avoiding them.</q> -<em>Josh Waitzkin</em>
