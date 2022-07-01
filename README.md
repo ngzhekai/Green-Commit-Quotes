@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you can't, you must. If you must, you can.</q> -<em>Tony Robbins</em>
+### Commit Quotes <br> <br> <q>Do not stop thinking of life as an adventure.</q> -<em>Eleanor Roosevelt</em>
