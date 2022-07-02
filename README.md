@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</q> -<em>Eleanor Roosevelt</em>
+### Commit Quotes <br> <br> <q>The only person you should try to be better than is the person you were yesterday.</q> -<em>Brian Tracy</em>
