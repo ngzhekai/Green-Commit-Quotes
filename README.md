@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>The fastest way to change is to laugh at your own folly.</q> -<em>Spencer Johnson</em>
+### Commit Quotes <br> <br> <q>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</q> -<em>Dan Brown</em>
