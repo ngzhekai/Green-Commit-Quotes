@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Nothing is more creative...nor destructive...than a brilliant mind with a purpose.</q> -<em>Dan Brown</em>
+### Commit Quotes <br> <br> <q>The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.</q> -<em>Henry Ward Beecher</em>
