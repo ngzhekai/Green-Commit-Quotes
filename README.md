@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If fear is too strong, the genius is suppressed.</q> -<em>Robert Kiyosaki</em>
+### Commit Quotes <br> <br> <q>Integrity is the ability to stand by an idea.</q> -<em>Ayn Rand</em>
