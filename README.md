@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Keep your friends close, and your enemies closer.</q> -<em>Sun Tzu</em>
+### Commit Quotes <br> <br> <q>Everything eaten is killed. Every meal is a sacrifice.</q> -<em>Adi Da Samraj</em>
