@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Integrity is the ability to stand by an idea.</q> -<em>Ayn Rand</em>
+### Commit Quotes <br> <br> <q>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </q> -<em>Paramahansa Yogananda</em>
