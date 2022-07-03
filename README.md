@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>The person who never made a mistake never tried anything new.</q> -<em>Albert Einstein</em>
+### Commit Quotes <br> <br> <q>Until you change how you get things done, you'll never know what works best.</q> -<em>Roy T. Bennett</em>
