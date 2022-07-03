@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Until you change how you get things done, you'll never know what works best.</q> -<em>Roy T. Bennett</em>
+### Commit Quotes <br> <br> <q>Plants grow weak without wind.</q> -<em>Maxime Lagace</em>
