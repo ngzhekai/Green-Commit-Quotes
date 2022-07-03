@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Plants grow weak without wind.</q> -<em>Maxime Lagace</em>
+### Commit Quotes <br> <br> <q>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </q> -<em>Estee Lauder</em>
