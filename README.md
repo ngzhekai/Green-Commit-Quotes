@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>The way to get started is to quit talking and begin doing.</q> -<em>Walt Disney</em>
+### Commit Quotes <br> <br> <q>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</q> -<em>Brian Tracy</em>
