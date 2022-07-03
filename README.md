@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Become the kind of leader that people would follow voluntarily, even if you had no title or position.</q> -<em>Brian Tracy</em>
+### Commit Quotes <br> <br> <q>Avoiding danger is no safer in the long run than exposure.</q> -<em>Helen Keller</em>
