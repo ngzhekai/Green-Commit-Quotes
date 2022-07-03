@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </q> -<em>Estee Lauder</em>
+### Commit Quotes <br> <br> <q>The person who cannot control his words shows that he cannot control himself.</q> -<em>Robert Greene</em>
