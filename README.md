@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Life moves on and so should we.</q> -<em>Spencer Johnson</em>
+### Commit Quotes <br> <br> <q>Rewards and punishment is the lowest form of education.</q> -<em>Zhuangzi</em>
