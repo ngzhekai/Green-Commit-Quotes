@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>When you move beyond your fear, you feel free.</q> -<em>Spencer Johnson</em>
+### Commit Quotes <br> <br> <q>No one can confidently say that he will still be living tomorrow.</q> -<em>Euripides</em>
