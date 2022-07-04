@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Hold yourself responsible for a higher standard than anybody else expects of you.</q> -<em>Henry Ward Beecher</em>
+### Commit Quotes <br> <br> <q>Life moves on and so should we.</q> -<em>Spencer Johnson</em>
