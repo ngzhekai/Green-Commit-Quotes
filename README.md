@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>No one can confidently say that he will still be living tomorrow.</q> -<em>Euripides</em>
+### Commit Quotes <br> <br> <q>Happiness is not something ready made. It comes from your own actions.</q> -<em>Dalai Lama</em>
