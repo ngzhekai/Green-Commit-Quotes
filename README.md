@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Never stand begging for that which you have the power to earn.</q> -<em>Miguel de Cervantes</em>
+### Commit Quotes <br> <br> <q>The sun shines upon good and bad alike.</q> -<em>Hans Christian Andersen</em>
