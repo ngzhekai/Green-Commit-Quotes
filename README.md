@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Rewards and punishment is the lowest form of education.</q> -<em>Zhuangzi</em>
+### Commit Quotes <br> <br> <q>Never stand begging for that which you have the power to earn.</q> -<em>Miguel de Cervantes</em>
