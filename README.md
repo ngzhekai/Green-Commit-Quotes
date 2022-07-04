@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Happiness is not something ready made. It comes from your own actions.</q> -<em>Dalai Lama</em>
+### Commit Quotes <br> <br> <q>Life can be wonderful if you're not afraid of it.</q> -<em>Charlie Chaplin</em>
