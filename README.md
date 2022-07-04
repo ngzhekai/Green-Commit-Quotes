@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Life can be wonderful if you're not afraid of it.</q> -<em>Charlie Chaplin</em>
+### Commit Quotes <br> <br> <q>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</q> -<em>Shunryu Suzuki</em>
