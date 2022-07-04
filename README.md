@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Happiness is not something ready made. It comes from your own actions.</q> -<em>Dalai Lama</em>
+### Commit Quotes <br> <br> <q>People don't care how much you know until they know how much you care.</q> -<em>Theodore Roosevelt</em>
