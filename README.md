@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Guilt is perhaps the most painful companion of death.</q> -<em>Coco Chanel</em>
+### Commit Quotes <br> <br> <q>Try not to become a man of success, but rather try to become a man of value.</q> -<em>Albert Einstein</em>
