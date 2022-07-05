@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</q> -<em>Kamal Ravikant</em>
+### Commit Quotes <br> <br> <q>If you genuinely want something, don't wait for it - teach yourself.</q> -<em>Gurbaksh Chahal</em>
