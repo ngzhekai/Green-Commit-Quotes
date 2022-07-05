@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>The sun shines upon good and bad alike.</q> -<em>Hans Christian Andersen</em>
+### Commit Quotes <br> <br> <q>There is peace even in the storm.</q> -<em>Vincent van Gogh</em>
