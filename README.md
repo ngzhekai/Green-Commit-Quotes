@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>There is peace even in the storm.</q> -<em>Vincent van Gogh</em>
+### Commit Quotes <br> <br> <q>Wishing to be friends is quick work, but friendship is a slow ripening fruit.</q> -<em>Aristotle</em>
