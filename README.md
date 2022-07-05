@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Life is trying things to see if they work.</q> -<em>Ray Bradbury</em>
+### Commit Quotes <br> <br> <q>A diamond is a piece of charcoal that handled stress exceptionally well.</q> -<em>Unknown</em>
