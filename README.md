@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Try not to become a man of success, but rather try to become a man of value.</q> -<em>Albert Einstein</em>
+### Commit Quotes <br> <br> <q>Keep smiling, because life is a beautiful thing and there's so much to smile about.</q> -<em>Marilyn Monroe</em>
