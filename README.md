@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Because a thing seems difficult for you, do not think it impossible.</q> -<em>Marcus Aurelius</em>
+### Commit Quotes <br> <br> <q>There is no excuse for not trying.</q> -<em>Barack Obama</em>
