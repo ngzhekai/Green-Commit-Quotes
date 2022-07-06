@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Some men see things as they are and ask why. Others dream things that never were and ask why not.</q> -<em>George Bernard Shaw</em>
+### Commit Quotes <br> <br> <q>Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.</q> -<em>Steve Maraboli</em>
