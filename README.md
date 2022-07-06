@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>If you genuinely want something, don't wait for it - teach yourself.</q> -<em>Gurbaksh Chahal</em>
+### Commit Quotes <br> <br> <q>Because a thing seems difficult for you, do not think it impossible.</q> -<em>Marcus Aurelius</em>
