@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Genius is one percent inspiration and ninety-nine percent perspiration.</q> -<em>Thomas Edison</em>
+### Commit Quotes <br> <br> <q>We have no more right to consume happiness without producing it than to consume wealth without producing it.</q> -<em>George Bernard Shaw</em>
