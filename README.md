@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Live the moment for the moment.</q> -<em>Michael Jordan</em>
+### Commit Quotes <br> <br> <q>The greatest weariness comes from work not done.</q> -<em>Eric Hoffer</em>
