@@ -9,9 +9,9 @@ source=$(curl https://zenquotes.io/api/random)
 quote=$(echo $source | jq -r .[].q)
 author=$(echo $source | jq -r .[].a)
 # Concatenate the string
-output="## Green-Commit-Quotes by ngzhekai"
-output1="### <q>${quote}</q> -<em>${author}</em>"
-output2="> These Quotes will be updated on a frequency of 2-3hr"
+output="## Get Your Daily Dose of Quotes!"
+output1="### <q>${quote}</q> -<em>${author}</em> <br>"
+output2="#### These Quotes will be updated on a frequency basis of 2-3 hours ~"
 
 echo $output > README.md
 echo $output1 >> README.md
