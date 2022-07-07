@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'</q> -<em>Brian Tracy</em>
+### Commit Quotes <br> <br> <q>Talk to someone about themselves and they'll listen for hours.</q> -<em>Dale Carnegie</em>
