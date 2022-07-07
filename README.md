@@ -1,3 +1,3 @@
-## Green-Commit-Quotes by ngzhekai
-### <q>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</q> -<em>Thomas Jefferson</em>
-> These Quotes will be updated on a frequency of 2-3hr
+## Get Your Daily Dose of Quotes!
+### <q>If you want work well done, select a busy man; the other kind has no time.</q> -<em>Elbert Hubbard</em> <br>
+#### These Quotes will be updated on a frequency basis of 2-3 hours ~
