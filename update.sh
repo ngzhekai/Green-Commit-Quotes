@@ -9,9 +9,11 @@ source=$(curl https://zenquotes.io/api/random)
 quote=$(echo $source | jq -r .[].q)
 author=$(echo $source | jq -r .[].a)
 # Concatenate the string
-output="### Commit Quotes <br> <br> <q>${quote}</q> -<em>${author}</em>"
+output="### Quotes that gets updated every 2hr or new push commit <br> <br>"
+output1="#### <q>${quote}</q> -<em>${author}</em>"
 
 echo $output > README.md
+echo $output1 >> README.md
 
 git config --local user.email "ngzhekai@gmail.com"
 git config --local user.name "Hatsune Miku"
