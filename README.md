@@ -1,1 +1,1 @@
-### Commit Quotes <br> <br> <q>My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.</q> -<em>Thich Nhat Hanh</em>
+### Commit Quotes <br> <br> <q>A fall into a ditch makes you wiser.</q> -<em>Chinese Proverb</em>
