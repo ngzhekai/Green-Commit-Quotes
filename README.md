@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</q> -<em>Spencer Johnson</em> <br><br>
+### <q>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</q> -<em>Toni Morrison</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
