@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</q> -<em>Toni Morrison</em> <br><br>
+### <q>I was angered, for I had no shoes. Then I met a man who had no feet. </q> -<em>Chinese Proverb</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
