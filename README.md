@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Life is either a daring adventure, or it is nothing.</q> -<em>Helen Keller</em> <br><br>
+### <q>The day is for honest men, the night for thieves.</q> -<em>Euripides</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
