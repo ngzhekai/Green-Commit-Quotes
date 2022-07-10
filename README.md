@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Happiness is an effect of doing what you love, not an end goal to be achieved.</q> -<em>Celestine Chua</em> <br><br>
+### <q>In the practice of tolerance, one's enemy is the best teacher.</q> -<em>Dalai Lama</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
