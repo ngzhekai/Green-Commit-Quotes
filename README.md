@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Real growth comes through intense, difficult, and challenging situations.</q> -<em>Kamal Ravikant</em> <br><br>
+### <q>Don't give up on your dreams, or your dreams will give up on you.</q> -<em>John Wooden</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
