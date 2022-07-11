@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Find something you love and do it better than everyone else.</q> -<em>Gurbaksh Chahal</em> <br><br>
+### <q>What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.</q> -<em>Spencer Johnson</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
