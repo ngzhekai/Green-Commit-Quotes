@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Wise people, even though all laws were abolished, would still lead the same life.</q> -<em>Aristophanes</em> <br><br>
+### <q>The world only exists in your eyes. You can make it as big or as small as you want.</q> -<em>F. Scott Fitzgerald</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
