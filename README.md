@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>The power of human thought grows exponentially with the number of minds that share that thought.</q> -<em>Dan Brown</em> <br><br>
+### <q>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </q> -<em>St. Jerome</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
