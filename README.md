@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </q> -<em>St. Jerome</em> <br><br>
+### <q>Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.</q> -<em>Mark Twain</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
