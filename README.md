@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>The strongest and sweetest songs yet remain to be sung.</q> -<em>Walt Whitman</em> <br><br>
+### <q>Life can only be understood backwards; but it must be lived forwards.</q> -<em>Soren Kierkegaard</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
