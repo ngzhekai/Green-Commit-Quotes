@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Do not think you will necessarily be aware of your own enlightenment.</q> -<em>Dogen</em> <br><br>
+### <q>Only put off until tomorrow what you are willing to die having left undone.</q> -<em>Pablo Picasso</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
