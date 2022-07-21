@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>The measure of who we are is what we do with what we have.</q> -<em>Vince Lombardi</em> <br><br>
+### <q>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</q> -<em>Jonathan Swift</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
