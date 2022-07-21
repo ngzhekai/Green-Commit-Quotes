@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>If you get up one more time than you fall, you will make it through.</q> -<em>Chinese Proverb</em> <br><br>
+### <q>Sometimes, the only way to evolve is to open ourselves fully.</q> -<em>Kamal Ravikant</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
