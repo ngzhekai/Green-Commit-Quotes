@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Have the courage to follow your heart and intuition. They somehow know what you truly want to become.</q> -<em>Steve Jobs</em> <br><br>
+### <q>The measure of who we are is what we do with what we have.</q> -<em>Vince Lombardi</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
