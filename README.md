@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</q> -<em>Gary Keller</em> <br><br>
+### <q>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</q> -<em>Josh Waitzkin</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
