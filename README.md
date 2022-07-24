@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>When you are tough on yourself, life is going to be infinitely easier on you. </q> -<em>Zig Ziglar</em> <br><br>
+### <q>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</q> -<em>Kamal Ravikant</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
