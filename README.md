@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.</q> -<em>Kamal Ravikant</em> <br><br>
+### <q>To achieve, you need thought. You have to know what you are doing and that's real power.</q> -<em>Ayn Rand</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
