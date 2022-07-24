@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Nothing makes a man broad-minded like adversity.</q> -<em>Will Rogers</em> <br><br>
+### <q>We should not look back unless it is to derive useful lessons from past errors.</q> -<em>George Washington</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
