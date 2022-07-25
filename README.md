@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>I no doubt deserved my enemies, but I don't believe I deserved my friends.</q> -<em>Walt Whitman</em> <br><br>
+### <q>Change yourself - you are in control.</q> -<em>Mahatma Gandhi</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
