@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>A clever person turns great troubles into little ones, and little ones into none at all. </q> -<em>Chinese Proverb</em> <br><br>
+### <q>You are not one person, but three: The one you think you are; The one others think you are; The one you really are.</q> -<em>Sathya Sai Baba</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
