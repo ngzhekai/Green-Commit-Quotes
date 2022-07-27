@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Fools resist. The wise embrace.</q> -<em>Maxime Lagace</em> <br><br>
+### <q>Do what is right, not what is easy, nor what is popular.</q> -<em>Roy T. Bennett</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
