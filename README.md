@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>People do not decide their futures, they decide their habits and their habits decide their futures.</q> -<em>Gary Keller</em> <br><br>
+### <q>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</q> -<em>Richard Bach</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
