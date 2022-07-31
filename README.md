@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>Weeds are flowers too, once you get to know them.</q> -<em>A.A. Milne</em> <br><br>
+### <q>If you care about someone enough, you'll always be there for them no matter what.</q> -<em>Roy T. Bennett</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
