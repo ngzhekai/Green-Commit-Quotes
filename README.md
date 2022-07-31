@@ -1,3 +1,3 @@
 ## Get Your Daily Dose of Quotes!
-### <q>You will succeed because most people are lazy.</q> -<em>Shahir Zag</em> <br><br>
+### <q>Weeds are flowers too, once you get to know them.</q> -<em>A.A. Milne</em> <br><br>
 ##### NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
